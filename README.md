@@ -1,2 +1,2 @@
-# asisten-devops
-this repository praktikum asisten devops
+# asisten-cc
+this repository praktikum asisten cc
